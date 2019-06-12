@@ -123,17 +123,33 @@ h3 {
 }
 
 /* cta Section */
-#cta{
+#cta {
   background-color: #ff4c68;
   color: #fff;
   padding: 7% 15%;
 }
 
-.cta-header{
+.cta-header {
   font-family: 'Montserrat-Black', sans-serif;
   font-size: 3rem;
   line-height: 1.5;
   margin-bottom: 100px;
+}
+
+/* Footer Section */
+#footer {
+  background-color: #fff;
+  padding: 7% 15%;
+}
+
+.social {
+  margin: 2% 3%;
+}
+
+.footer-p {
+  color: #8f8f8f;
+  font-family: 'Montserrat-light', sans-serif;
+  padding: 5%;
 }
 
 /* Mobile Responsive */
